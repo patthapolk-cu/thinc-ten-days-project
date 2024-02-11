@@ -1,0 +1,32 @@
+[
+  {
+    "productName": "shirt",
+    "productId": 1,
+    "tag": ["shirt", "men"],
+    "productPrice": 300,
+    "productDetail": "whitetshirt",
+    "productStock": 10,
+    "productOwnerId": 1,
+    "productImage": "./src/assets/image1.jpg"
+  },
+  {
+    "productName": "pant",
+    "productId": 2,
+    "tag": ["women", "men"],
+    "productPrice": 200,
+    "productDetail": "short",
+    "productStock": 12,
+    "productOwnerId": 2,
+    "productImage": "./src/assets/image1.jpg"
+  },
+  {
+    "productId": 3,
+    "productName": "shirttysmashy",
+    "tag": ["shirt", "men"],
+    "productPrice": 30000,
+    "productDetail": "holywhiteshirt",
+    "productStock": 10,
+    "productOwnerId": 1,
+    "productImage": "./src/assets/image1.jpg"
+  }
+]
